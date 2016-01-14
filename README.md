@@ -11,3 +11,5 @@ or just run:
 ```bash
 cp ./config.fish ~/.config/fish/config.fish
 ```
+
+![fish shell](http://i.imgur.com/tpKp0kv.png)
