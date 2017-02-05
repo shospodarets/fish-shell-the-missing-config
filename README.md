@@ -1,6 +1,9 @@
+# Profit
+Makes Fish to reuse the Environment Variables and Aliases provided in the `~/.bash_profile` file
+
 # How to use
 
-Just replace your [Fish Shell](http://fishshell.com/) config
+Just replace the [Fish Shell](http://fishshell.com/) config
 
 (which usually is placed at `~/.config/fish/config.fish`)
 
@@ -11,8 +14,7 @@ Or just run:
 ```bash
 cp ./config.fish ~/.config/fish/config.fish
 ```
- 
-# Profit
-Makes Fish reusing your Environment Variables and Aliases provided for Bash Shell in a `~/.bash_profile` file
+
+### [Fish Shell- the missing config (article)](https://blog.hospodarets.com/fish-shell-the-missing-config) 
 
 ![fish shell](http://i.imgur.com/tpKp0kv.png)
