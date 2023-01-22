@@ -15,6 +15,6 @@ Or just run:
 cp ./config.fish ~/.config/fish/config.fish
 ```
 
-### [Fish Shell- the missing config (article)](https://blog.hospodarets.com/fish-shell-the-missing-config) 
+### [Fish Shell- the missing config (article)](https://hospodarets.com/fish-shell-the-missing-config) 
 
 ![fish shell](http://i.imgur.com/tpKp0kv.png)
